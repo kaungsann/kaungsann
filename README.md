@@ -2,8 +2,8 @@
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-kaungsann-0e76a8?style=flat&labelColor=0e76a8&logo=fackbook&logoColor=white)](https://www.linkedin.com/in/kaungsan-hein-43893526a/)
-[![Linkedin Badge](https://img.shields.io/badge/-kaungsann-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaungsan-hein-43893526a/) [![Mail Badge](https://img.shields.io/badge/-kaungsann-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/phoekaung) [![Mail Badge](https://img.shields.io/badge/-kaungsann-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kaungsanh53@gmail.com)
+[![Facebook badge](https://img.shields.io/badge/-kaungsann-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white) ](https://www.facebook.com/phoe.kaung.5667)
+[![Linkedin Badge](https://img.shields.io/badge/-kaungsann-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&lwhiteogoColor=)](https://www.linkedin.com/in/kaungsan-hein-43893526a/) [![Mail Badge](https://img.shields.io/badge/-kaungsann-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/phoekaung) [![Mail Badge](https://img.shields.io/badge/-kaungsann-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kaungsanh53@gmail.com)
 
 <!-- TODO: Add last video link -->
 
@@ -36,9 +36,9 @@
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-[![Nextjs Badge](https://img.shields.io/badge/-Nextjs-007acc?style=for-the-badge&labelColor=black&logo=nextjs&logoColor=007acc)](#)
+[![Nextjs Badge](https://img.shields.io/badge/-Nextjs-007acc?style=for-the-badge&labelColor=black&logo=next.js&logoColor=007acc)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Mongodb Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Mongodb Badge](https://img.shields.io/badge/-Mongodb-3C873A?style=for-the-badge&labelColor=black&logo=Mongodb&logoColor=3C873A)](#)
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
@@ -60,11 +60,14 @@
 
 #### Bizness
 
-- :paperclip: [My Resume/CV]
+- :paperclip: [My Resume/CV](https://github.com/kaungsann/resumes/kaungsann_cvform.pdf)
+- :email: kaungsanh53@gmail.com
+
+-
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kaungsann&left_color=green&right_color=red)
+[![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=kaungsann.kaungsann)](https://visitor-badge.glitch.me/badge?page_id=YOUR_USERNAME.YOUR_REPOSITORY_NAME)
 
 #### Github Stats
 
