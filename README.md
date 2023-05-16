@@ -60,14 +60,12 @@
 
 #### Bizness
 
-- :paperclip: [My Resume/CV](https://github.com/kaungsann/resumes/kaungsann_cvform.pdf)
+- :paperclip: [My Resume/CV](https://github.com/kaungsann/kaungsann/blob/master/resumes/kaungsann_cvform.pdf)
 - :email: kaungsanh53@gmail.com
-
--
 
 #### Profile Visits
 
-[![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=kaungsann.kaungsann)](https://visitor-badge.glitch.me/badge?page_id=YOUR_USERNAME.YOUR_REPOSITORY_NAME)
+![Visits](https://api.visitorbadge.io/api/VisitorHit?user=kaungsann&repo=kaungsann&label=Visits&countColor=%237B1E7A)
 
 #### Github Stats
 
